@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Vette",
+    "price": 200,
+    "imgUrl": "/img/img-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ferrari",
+    "price": 300,
+    "imgUrl": "/img/img-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dodge",
+    "price": 100,
+    "imgUrl": "/img/img-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lexus",
+    "price": 150,
+    "imgUrl": "/img/img-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Aurus",
+    "price": 80,
+    "imgUrl": "/img/img-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Suzuki",
+    "price": 400,
+    "imgUrl": "/img/img-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tesla",
+    "price": 250,
+    "imgUrl": "/img/img-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "BMW",
+    "price": 180,
+    "imgUrl": "/img/img-8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mercedes",
+    "price": 280,
+    "imgUrl": "/img/img-9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Porsche",
+    "price": 350,
+    "imgUrl": "/img/img-10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Chevrolet",
+    "price": 120,
+    "imgUrl": "/img/img-11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Audi",
+    "price": 120,
+    "imgUrl": "/img/img-12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Honda",
+    "price": 90,
+    "imgUrl": "/img/img-13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Toyota",
+    "price": 130,
+    "imgUrl": "/img/img-14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Hyundai",
+    "price": 700,
+    "imgUrl": "/img/img-15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Kia",
+    "price": 600,
+    "imgUrl": "/img/img-16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Mazda",
+    "price": 450,
+    "imgUrl": "/img/img-17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Subaru",
+    "price": 250,
+    "imgUrl": "/img/img-18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Volvo",
+    "price": 200,
+    "imgUrl": "/img/img-19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Jaguar",
+    "price": 260,
+    "imgUrl": "/img/img-20.jpg"
+  }
+]
